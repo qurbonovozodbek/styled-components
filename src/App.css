@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "IBM Plex Mono", monospace;
+}
+h2 {
+    font-weight: 600;
+    color: #13390d;
+}
+#img {
+    cursor: pointer;
+}
+.backgound {
+    width: 650px;
+    margin-top: -76px;
+    margin-bottom: -5px;
+    
+}
