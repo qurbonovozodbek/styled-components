@@ -3,6 +3,7 @@ import image from "../../assets/back.png";
 
 export const Container = styled.div`
     background-color: #6DFC56;
+    height: 100%;
     padding: 20px 180px 0px;
 `
 export const Header = styled.header`
